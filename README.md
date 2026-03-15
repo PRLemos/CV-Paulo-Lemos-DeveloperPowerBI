@@ -14,7 +14,7 @@ Sou especialista em Business Intelligence, com experiência em SQL, Python e Pow
 ## Contato
 - 📧 paulolemos2791@gmail.com  
 - 🌐 [LinkedIn]([Paulo Roberto Lemos](https://www.linkedin.com/in/paulo-rlemos-analyst-bi/))  
-- 🌍 Portfólio: [KS Data Driven]([https://seu-site.com](https://ksds-prlemos.vercel.app/#services))
+- 🌍 Portfólio:([KS Data Driven]([https://seu-site.com](https://ksds-prlemos.vercel.app/#services))
 
 ---
 > Transformando dados em decisões.  
